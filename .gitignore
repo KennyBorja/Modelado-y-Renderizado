@@ -1,0 +1,15 @@
+# Binaries and executables
+bin/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Screenshots and temp files
+*.bmp
+Lab9_extracted.txt
+/textures/*.bmp
